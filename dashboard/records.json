@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-07T07:09:18.867379-04:00",
+  "fetched_at": "2026-10-08T07:07:31.216267-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-04",
-    "end": "2026-10-07"
+    "start": "2026-10-05",
+    "end": "2026-10-08"
   },
   "run_window": {
-    "start": "2026-10-04",
-    "end": "2026-10-07"
+    "start": "2026-10-05",
+    "end": "2026-10-08"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-09",
     "end": "2026-10-07"
   },
-  "new_this_run": 5,
+  "new_this_run": 0,
   "archive_total": 16,
   "dashboard_days": 120,
   "total": 16,
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -179,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -222,7 +222,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -306,7 +306,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -349,7 +349,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -391,7 +391,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -645,7 +645,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -688,7 +688,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -730,7 +730,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-07",
+      "last_verified": "2026-10-08",
       "flags": [
         "Probate / estate",
         "New this week"
