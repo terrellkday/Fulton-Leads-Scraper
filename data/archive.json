@@ -32,7 +32,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -74,7 +74,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "New this week",
@@ -117,7 +117,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -159,7 +159,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "New this week",
@@ -286,7 +286,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "LLC / corp owner",
@@ -329,7 +329,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -625,7 +625,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Tax delinquent",
       "LLC / corp owner",
@@ -668,7 +668,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Tax delinquent",
       "New this week"
@@ -680,7 +680,7 @@
   {
     "doc_num": "GPN-FN3366",
     "doc_type": "Legal Notice (PRO)",
-    "filed": "2026-09-09",
+    "filed": "2026-09-16",
     "cat": "PRO",
     "cat_label": "Probate / Estate",
     "owner": "whom it may concern",
@@ -710,7 +710,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-09",
+    "last_verified": "2026-10-10",
     "flags": [
       "Probate / estate",
       "New this week"
