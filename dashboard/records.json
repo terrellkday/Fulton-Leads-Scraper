@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-14T07:07:04.587155-04:00",
+  "fetched_at": "2026-10-15T07:07:28.986404-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-11",
-    "end": "2026-10-14"
+    "start": "2026-10-12",
+    "end": "2026-10-15"
   },
   "run_window": {
-    "start": "2026-10-11",
-    "end": "2026-10-14"
+    "start": "2026-10-12",
+    "end": "2026-10-15"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-16",
     "end": "2026-10-14"
   },
-  "new_this_run": 3,
+  "new_this_run": 0,
   "archive_total": 20,
   "dashboard_days": 120,
   "total": 20,
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -179,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -222,7 +222,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -264,7 +264,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -306,7 +306,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -348,7 +348,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -432,7 +432,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -475,7 +475,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -517,7 +517,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -559,7 +559,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -813,7 +813,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -856,7 +856,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -898,7 +898,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-14",
+      "last_verified": "2026-10-15",
       "flags": [
         "Probate / estate",
         "New this week"
