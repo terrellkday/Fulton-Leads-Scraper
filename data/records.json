@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-16T07:07:27.303559-04:00",
+  "fetched_at": "2026-10-17T07:05:06.576881-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-13",
-    "end": "2026-10-16"
+    "start": "2026-10-14",
+    "end": "2026-10-17"
   },
   "run_window": {
-    "start": "2026-10-13",
-    "end": "2026-10-16"
+    "start": "2026-10-14",
+    "end": "2026-10-17"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -44,7 +44,7 @@
     "legal_notices": {
       "ok": true,
       "status": "ok",
-      "count": 14,
+      "count": 13,
       "error": ""
     },
     "tax_sales": {
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -179,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -222,7 +222,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -264,7 +264,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -306,7 +306,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -348,7 +348,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -432,7 +432,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -475,7 +475,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -517,7 +517,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -559,7 +559,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -813,7 +813,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -856,7 +856,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-16",
+      "last_verified": "2026-10-17",
       "flags": [
         "Tax delinquent",
         "New this week"
