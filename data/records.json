@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-20T07:07:02.630645-04:00",
+  "fetched_at": "2026-10-21T07:07:08.740748-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-17",
-    "end": "2026-10-20"
+    "start": "2026-10-18",
+    "end": "2026-10-21"
   },
   "run_window": {
-    "start": "2026-10-17",
-    "end": "2026-10-20"
+    "start": "2026-10-18",
+    "end": "2026-10-21"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -15,7 +15,7 @@
   },
   "filed_range": {
     "start": "2026-09-16",
-    "end": "2026-10-14"
+    "end": "2026-10-21"
   },
   "new_this_run": 0,
   "archive_total": 20,
@@ -44,7 +44,7 @@
     "legal_notices": {
       "ok": true,
       "status": "ok",
-      "count": 13,
+      "count": 15,
       "error": ""
     },
     "tax_sales": {
@@ -64,7 +64,7 @@
     {
       "doc_num": "GPN-FN4670",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "All persons known",
@@ -72,7 +72,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4670 gpn11 FN4668 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To:All persons known or unknown who may claim an interest in property known as 349 James P. Brawley Drive; Resident/Tenant/Occupant; ZXN Properties, LLC; Unknown Heirs of Sallie E. Hardnett; U ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4670 gpn11 FN4668 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To:All persons known or unknown who may claim an interest in property known as 349 James P. Brawley Drive; Resident/Tenant/Occupant; ZXN Properties, LLC; Unknown Heirs of Sallie E. Hardnett; U ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "349 JAMES P. BRAWLEY DRIVE",
       "prop_city": "",
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -107,7 +107,7 @@
     {
       "doc_num": "GPN-FN4668",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "All persons known",
@@ -115,7 +115,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4668 gpn11 FN4668 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To:All persons known or unknown who may claim an interest in property known as 3685 Thaxton Road;Resident/Tenant/Occupant;Timothy Bankston; Peyton Village Condominium Association, Inc.;Deutsc ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4668 gpn11 FN4668 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To:All persons known or unknown who may claim an interest in property known as 3685 Thaxton Road;Resident/Tenant/Occupant;Timothy Bankston; Peyton Village Condominium Association, Inc.;Deutsc ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "3685 THAXTON ROAD",
       "prop_city": "",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -149,7 +149,7 @@
     {
       "doc_num": "GPN-FN4575",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "",
@@ -157,7 +157,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4575 gpn11 FN4575 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1. All persons known or unknown who may claim an interest in property known as 3157 Browns Mill Rd; Resident/Tenant/Occupant; Unknown Heirs of Edna M. Mayes; Mary Nita Edwards a/k/a Mary ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4575 gpn11 FN4575 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1. All persons known or unknown who may claim an interest in property known as 3157 Browns Mill Rd; Resident/Tenant/Occupant; Unknown Heirs of Edna M. Mayes; Mary Nita Edwards a/k/a Mary ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "3157 BROWNS MILL RD",
       "prop_city": "",
@@ -179,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -192,7 +192,7 @@
     {
       "doc_num": "GPN-FN4732",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "",
@@ -200,7 +200,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4732 GPN11 FN4732 GPN11 NOTICE OF SALE UNDER POWER STATE OF GEORGIA COUNTY OF FULTON Under and by virtue of the power of sale contained in that certain Deed to Secure Debt, Security Agreement and Assignment of Rents and Leases, from 2797 Campbellton Rd, LLC (Grantor), to and in favor of Red Star ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4732 GPN11 FN4732 GPN11 NOTICE OF SALE UNDER POWER STATE OF GEORGIA COUNTY OF FULTON Under and by virtue of the power of sale contained in that certain Deed to Secure Debt, Security Agreement and Assignment of Rents and Leases, from 2797 Campbellton Rd, LLC (Grantor), to and in favor of Red Star ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "2797 CAMPBELLTON RD",
       "prop_city": "",
@@ -222,7 +222,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -234,7 +234,7 @@
     {
       "doc_num": "GPN-FN4384",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "",
@@ -242,7 +242,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4384 gpn11 FN5424 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1) All Residents/Tenants/ Occupants 2) All persons known or unknown who may claim an interest in property known as 163 Harper Road 3) Cherie Chiles 4) Barnett Buchanan, Sr. 5) Christo ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4384 gpn11 FN5424 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1) All Residents/Tenants/ Occupants 2) All persons known or unknown who may claim an interest in property known as 163 Harper Road 3) Cherie Chiles 4) Barnett Buchanan, Sr. 5) Christo ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "163 HARPER ROAD",
       "prop_city": "",
@@ -264,7 +264,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -276,7 +276,7 @@
     {
       "doc_num": "GPN-FB4741",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "J. E. St",
@@ -284,7 +284,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FB4741 gpn11 FN4741 gpn11 Prepared By/Return To: Summer Parker Halliday, Watkins & Mann, PC 244 Inverness Center Drive Suite 200 Birmingham, AL 35242 Parcel ID: 09F190000920334 NOTICE OF DEFAULT AND FORECLOSURE SALE WHEREAS, on February 3, 2009, a certain Security Deed was executed by J. E. St ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FB4741 gpn11 FN4741 gpn11 Prepared By/Return To: Summer Parker Halliday, Watkins & Mann, PC 244 Inverness Center Drive Suite 200 Birmingham, AL 35242 Parcel ID: 09F190000920334 NOTICE OF DEFAULT AND FORECLOSURE SALE WHEREAS, on February 3, 2009, a certain Security Deed was executed by J. E. St ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "244 INVERNESS CENTER DRIVE",
       "prop_city": "",
@@ -306,7 +306,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -348,7 +348,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -402,7 +402,7 @@
     {
       "doc_num": "GPN-FN5242",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "Shohreh, LLC",
@@ -410,7 +410,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN5242 GPN11 FN5242 GPN11 FORECLOSURE NOTICE: Default having been made in the payment of the indebtedness described in and secured by that certain Security Deed and Assignment of Rents, executed by Shohreh, LLC (Grantor), to the beneficiaries, FORGE TRUST CO, CFBO: Francis W Michel IRA Account # 37 ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN5242 GPN11 FN5242 GPN11 FORECLOSURE NOTICE: Default having been made in the payment of the indebtedness described in and secured by that certain Security Deed and Assignment of Rents, executed by Shohreh, LLC (Grantor), to the beneficiaries, FORGE TRUST CO, CFBO: Francis W Michel IRA Account # 37 ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -432,7 +432,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -445,7 +445,7 @@
     {
       "doc_num": "GPN-FN5220",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "SHONTELL YOUNG",
@@ -453,7 +453,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN5220 gpn11 FN5220 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Under and by virtue of the power of sale contained in a certain security deed executed by SHONTELL YOUNG, hereinafter referred to as Grantor, to MORTGAGE ELECTRONIC ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN5220 gpn11 FN5220 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Under and by virtue of the power of sale contained in a certain security deed executed by SHONTELL YOUNG, hereinafter referred to as Grantor, to MORTGAGE ELECTRONIC ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -475,7 +475,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -487,7 +487,7 @@
     {
       "doc_num": "GPN-FN4149",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-10-14",
+      "filed": "2026-10-21",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "the various grantors described",
@@ -495,7 +495,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4149 gpn11 FN4149 gpn11 NOTICE OF FORECLOSURE SALE This notice is given pursuant to those certain Deeds to Secure Debt and Security Agreements (\"Security Deeds\"), identified below, granted by the various grantors described herein (\"Grantors\") to Wyndham Vacation Resorts, Inc., (\"Grantee\") to se ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4149 gpn11 FN4149 gpn11 NOTICE OF FORECLOSURE SALE This notice is given pursuant to those certain Deeds to Secure Debt and Security Agreements (\"Security Deeds\"), identified below, granted by the various grantors described herein (\"Grantors\") to Wyndham Vacation Resorts, Inc., (\"Grantee\") to se ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -517,7 +517,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -537,7 +537,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN9197 gpn20 FN9197 gpn11 IN THE SUPERIOR COURT OF FULTON COUNTY STATE OF GEORGIA JWM Holdings, LLC Petitioner, v. THAT PARCEL OF LAND LOCATED IN FULTON COUNTY, GEORGIA, KNOWN AS 384 ASHLEY AVENUE NE, CITY OF ATLANTA (TPID #14-0018-0008-024-3) AND ALL PERSONS KNOWN AND UNKNOWN CLAIMING ANY INTERE ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN9197 gpn20 FN9197 gpn11 IN THE SUPERIOR COURT OF FULTON COUNTY STATE OF GEORGIA JWM Holdings, LLC Petitioner, v. THAT PARCEL OF LAND LOCATED IN FULTON COUNTY, GEORGIA, KNOWN AS 384 ASHLEY AVENUE NE, CITY OF ATLANTA (TPID #14-0018-0008-024-3) AND ALL PERSONS KNOWN AND UNKNOWN CLAIMING ANY INTERE ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "384 ASHLEY AVENUE NE",
       "prop_city": "",
@@ -559,7 +559,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -813,7 +813,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -834,7 +834,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, October 14, 2026 City: Atlanta County: Fulton FN4947 gpn11 FN4948 gpn11 IN THE SUPERIOR COURT OF FULTON COUNTY STATE OF GEORGIA XKR Holdings, LLC; Petitioner, v. Keith Ivory; Respondents. CIVIL ACTION FILE NO. 26CV008456 NOTICE OF SERVICE OF SUMMONS BY PUBLICATION TO: Keith Ivory; You are hereby notified that the above styled ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, October 21, 2026 City: Atlanta County: Fulton FN4947 gpn11 FN4948 gpn11 IN THE SUPERIOR COURT OF FULTON COUNTY STATE OF GEORGIA XKR Holdings, LLC; Petitioner, v. Keith Ivory; Respondents. CIVIL ACTION FILE NO. 26CV008456 NOTICE OF SERVICE OF SUMMONS BY PUBLICATION TO: Keith Ivory; You are hereby notified that the above styled ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -856,7 +856,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-20",
+      "last_verified": "2026-10-21",
       "flags": [
         "Tax delinquent",
         "New this week"
