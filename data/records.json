@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-22T07:07:30.508136-04:00",
+  "fetched_at": "2026-10-23T07:07:29.326241-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-19",
-    "end": "2026-10-22"
+    "start": "2026-10-20",
+    "end": "2026-10-23"
   },
   "run_window": {
-    "start": "2026-10-19",
-    "end": "2026-10-22"
+    "start": "2026-10-20",
+    "end": "2026-10-23"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -15,7 +15,7 @@
   },
   "filed_range": {
     "start": "2026-09-16",
-    "end": "2026-10-21"
+    "end": "2026-10-22"
   },
   "new_this_run": 0,
   "archive_total": 20,
@@ -62,6 +62,48 @@
   },
   "records": [
     {
+      "doc_num": "GPN-420-189639",
+      "doc_type": "Notice of Sale Under Power",
+      "filed": "2026-10-22",
+      "cat": "FC",
+      "cat_label": "Pre-Foreclosure",
+      "owner": "Legacy Development Investment",
+      "parcel_owner": "",
+      "name_order": "natural",
+      "grantee": "",
+      "amount": null,
+      "legal": "The Champion Thursday, October 22, 2026 City: Atlanta County: Fulton 420-189639 10/8,10/15,10/22,10/29TAKE NOTICE THAT:NOTICE OF FORECLOSURE OF RIGHT TO REDEEM To: 1. All Resident (s), Tenant (s), and/or Occupant (s) of: 6032 Regent Manor, Lithonia, GA 30058. Tax Defendant in Fi Fa: Legacy Development Investment. All persons, Known and Unknown, having of record in F ... click 'view' to open the full text.",
+      "parcel_id": "",
+      "prop_address": "6032 REGENT MANOR",
+      "prop_city": "",
+      "prop_state": "GA",
+      "prop_zip": "30058",
+      "pub_city": "Atlanta",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "owner_occupied": null,
+      "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
+      "source": "Georgia Public Notice (legal organ advertisement)",
+      "foreclosure_sale_date": "",
+      "tax_sale_date": "",
+      "years_delinquent": "",
+      "heirs_unknown": false,
+      "notice_number": "420-189639",
+      "status": "active",
+      "match_confidence": 0.0,
+      "match_method": "none",
+      "last_verified": "2026-10-23",
+      "flags": [
+        "Pre-foreclosure",
+        "New this week"
+      ],
+      "score": 70,
+      "county": "Fulton",
+      "first_seen": "2026-10-09"
+    },
+    {
       "doc_num": "GPN-FN4670",
       "doc_type": "Notice of Sale Under Power",
       "filed": "2026-10-21",
@@ -94,7 +136,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -137,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -179,7 +221,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -222,7 +264,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -264,7 +306,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -306,7 +348,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -314,48 +356,6 @@
       "score": 70,
       "county": "Fulton",
       "first_seen": "2026-10-14"
-    },
-    {
-      "doc_num": "GPN-420-189639",
-      "doc_type": "Legal Notice (TAX)",
-      "filed": "2026-10-08",
-      "cat": "TAX",
-      "cat_label": "Tax Delinquent / Tax Sale",
-      "owner": "Legacy Development Investment",
-      "parcel_owner": "",
-      "name_order": "natural",
-      "grantee": "",
-      "amount": null,
-      "legal": "The Champion Thursday, October 08, 2026 City: Atlanta County: Fulton 420-189639 10/8,10/15,10/22,10/29TAKE NOTICE THAT:NOTICE OF FORECLOSURE OF RIGHT TO REDEEM To: 1. All Resident (s), Tenant (s), and/or Occupant (s) of: 6032 Regent Manor, Lithonia, GA 30058. Tax Defendant in Fi Fa: Legacy Development Investment. All persons, Known and Unknown, having of record in F ... click 'view' to open the full text.",
-      "parcel_id": "",
-      "prop_address": "6032 REGENT MANOR",
-      "prop_city": "",
-      "prop_state": "GA",
-      "prop_zip": "30058",
-      "pub_city": "Atlanta",
-      "mail_address": "",
-      "mail_city": "",
-      "mail_state": "",
-      "mail_zip": "",
-      "owner_occupied": null,
-      "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
-      "source": "Georgia Public Notice (legal organ advertisement)",
-      "foreclosure_sale_date": "",
-      "tax_sale_date": "",
-      "years_delinquent": "",
-      "heirs_unknown": false,
-      "notice_number": "420-189639",
-      "status": "active",
-      "match_confidence": 0.0,
-      "match_method": "none",
-      "last_verified": "2026-10-22",
-      "flags": [
-        "Pre-foreclosure",
-        "New this week"
-      ],
-      "score": 70,
-      "county": "Fulton",
-      "first_seen": "2026-10-09"
     },
     {
       "doc_num": "GPN-FN3308",
@@ -432,7 +432,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -475,7 +475,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -559,7 +559,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -813,7 +813,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -856,7 +856,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-22",
+      "last_verified": "2026-10-23",
       "flags": [
         "Tax delinquent",
         "New this week"
