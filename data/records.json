@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-10-24T07:06:58.601268-04:00",
+  "fetched_at": "2026-10-25T07:07:12.532600-04:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-10-21",
-    "end": "2026-10-24"
+    "start": "2026-10-22",
+    "end": "2026-10-25"
   },
   "run_window": {
-    "start": "2026-10-21",
-    "end": "2026-10-24"
+    "start": "2026-10-22",
+    "end": "2026-10-25"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -17,7 +17,7 @@
     "start": "2026-09-16",
     "end": "2026-10-24"
   },
-  "new_this_run": 9,
+  "new_this_run": 0,
   "archive_total": 29,
   "dashboard_days": 120,
   "total": 29,
@@ -106,10 +106,10 @@
     },
     {
       "doc_num": "GPN-420-189639",
-      "doc_type": "Legal Notice (TAX)",
+      "doc_type": "Notice of Sale Under Power",
       "filed": "2026-10-22",
-      "cat": "TAX",
-      "cat_label": "Tax Delinquent / Tax Sale",
+      "cat": "FC",
+      "cat_label": "Pre-Foreclosure",
       "owner": "Legacy Development Investment",
       "parcel_owner": "",
       "name_order": "natural",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-24",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -179,7 +179,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -222,7 +222,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -264,7 +264,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -307,7 +307,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -349,7 +349,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -391,7 +391,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -811,7 +811,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "LLC / corp owner",
@@ -854,7 +854,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-23",
+      "last_verified": "2026-10-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -938,7 +938,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-24",
+      "last_verified": "2026-10-25",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -1192,7 +1192,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-24",
+      "last_verified": "2026-10-25",
       "flags": [
         "Tax delinquent",
         "LLC / corp owner",
@@ -1235,7 +1235,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-10-24",
+      "last_verified": "2026-10-25",
       "flags": [
         "Tax delinquent",
         "New this week"

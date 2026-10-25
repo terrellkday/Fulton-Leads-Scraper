@@ -44,10 +44,10 @@
   },
   {
     "doc_num": "GPN-420-189639",
-    "doc_type": "Legal Notice (TAX)",
+    "doc_type": "Notice of Sale Under Power",
     "filed": "2026-10-22",
-    "cat": "TAX",
-    "cat_label": "Tax Delinquent / Tax Sale",
+    "cat": "FC",
+    "cat_label": "Pre-Foreclosure",
     "owner": "Legacy Development Investment",
     "parcel_owner": "",
     "name_order": "natural",
@@ -75,7 +75,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -117,7 +117,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week",
@@ -160,7 +160,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -202,7 +202,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week",
@@ -245,7 +245,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -287,7 +287,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -329,7 +329,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -749,7 +749,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "LLC / corp owner",
@@ -792,7 +792,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-23",
+    "last_verified": "2026-10-25",
     "flags": [
       "Pre-foreclosure",
       "New this week"
@@ -876,7 +876,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-10-25",
     "flags": [
       "Tax delinquent",
       "New this week"
@@ -1130,7 +1130,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-10-25",
     "flags": [
       "Tax delinquent",
       "LLC / corp owner",
@@ -1173,7 +1173,7 @@
     "status": "active",
     "match_confidence": 0.0,
     "match_method": "none",
-    "last_verified": "2026-10-24",
+    "last_verified": "2026-10-25",
     "flags": [
       "Tax delinquent",
       "New this week"
