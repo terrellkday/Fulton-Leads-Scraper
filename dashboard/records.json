@@ -1,13 +1,13 @@
 {
-  "fetched_at": "2026-11-23T07:07:15.050449-05:00",
+  "fetched_at": "2026-11-24T07:07:01.376313-05:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-11-20",
-    "end": "2026-11-23"
+    "start": "2026-11-21",
+    "end": "2026-11-24"
   },
   "run_window": {
-    "start": "2026-11-20",
-    "end": "2026-11-23"
+    "start": "2026-11-21",
+    "end": "2026-11-24"
   },
   "archive_range": {
     "start": "2026-10-02",
@@ -44,7 +44,7 @@
     "legal_notices": {
       "ok": true,
       "status": "ok",
-      "count": 8,
+      "count": 7,
       "error": ""
     },
     "tax_sales": {
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -603,7 +603,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -645,7 +645,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -687,7 +687,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -729,7 +729,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -1825,7 +1825,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-23",
+      "last_verified": "2026-11-24",
       "flags": [
         "Tax delinquent",
         "New this week",
