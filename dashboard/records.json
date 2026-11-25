@@ -1,27 +1,27 @@
 {
-  "fetched_at": "2026-11-24T07:07:01.376313-05:00",
+  "fetched_at": "2026-11-25T07:07:25.087435-05:00",
   "source": "Fulton County GA Public Records",
   "date_range": {
-    "start": "2026-11-21",
-    "end": "2026-11-24"
+    "start": "2026-11-22",
+    "end": "2026-11-25"
   },
   "run_window": {
-    "start": "2026-11-21",
-    "end": "2026-11-24"
+    "start": "2026-11-22",
+    "end": "2026-11-25"
   },
   "archive_range": {
     "start": "2026-10-02",
-    "end": "2026-11-18"
+    "end": "2026-11-25"
   },
   "filed_range": {
     "start": "2026-09-16",
-    "end": "2026-11-18"
+    "end": "2026-11-25"
   },
-  "new_this_run": 0,
-  "archive_total": 45,
+  "new_this_run": 1,
+  "archive_total": 46,
   "dashboard_days": 120,
-  "total": 45,
-  "with_address": 15,
+  "total": 46,
+  "with_address": 16,
   "sources_report": {
     "parcels": {
       "ok": false,
@@ -44,7 +44,7 @@
     "legal_notices": {
       "ok": true,
       "status": "ok",
-      "count": 7,
+      "count": 9,
       "error": ""
     },
     "tax_sales": {
@@ -64,7 +64,7 @@
     {
       "doc_num": "GPN-FN6138",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-11-18",
+      "filed": "2026-11-25",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "",
@@ -72,7 +72,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Atlanta County: Fulton FN6138 gpn11 FN6138 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1) All Residents/Tenants/ Occupants 2) All persons known or unknown who may claim an interest in property known as 0 ML King Jr. Dr. NW 3) William F. Woods 4) Unknown Heirs of William F. ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN6138 gpn11 FN6138 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1) All Residents/Tenants/ Occupants 2) All persons known or unknown who may claim an interest in property known as 0 ML King Jr. Dr. NW 3) William F. Woods 4) Unknown Heirs of William F. ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "0 ML KING JR. DR",
       "prop_city": "",
@@ -94,7 +94,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -107,7 +107,7 @@
     {
       "doc_num": "GPN-FN6562",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-11-18",
+      "filed": "2026-11-25",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "",
@@ -115,7 +115,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Atlanta County: Fulton FN6562 gpn11 FN6562 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1. All persons known or unknown who may claim an interest in property known as 576 James P Brawley Dr; Resident/Tenant/ Occupant; Unknown Heirs of Milton Burkett; Unknown Heirs of Florida ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN6562 gpn11 FN6562 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1. All persons known or unknown who may claim an interest in property known as 576 James P Brawley Dr; Resident/Tenant/ Occupant; Unknown Heirs of Milton Burkett; Unknown Heirs of Florida ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "576 JAMES P BRAWLEY DR",
       "prop_city": "",
@@ -137,7 +137,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Pre-foreclosure",
         "New this week",
@@ -146,6 +146,49 @@
       "score": 70,
       "county": "Fulton",
       "first_seen": "2026-11-11"
+    },
+    {
+      "doc_num": "GPN-FN6990",
+      "doc_type": "Notice of Sale Under Power",
+      "filed": "2026-11-25",
+      "cat": "FC",
+      "cat_label": "Pre-Foreclosure",
+      "owner": "",
+      "parcel_owner": "",
+      "name_order": "natural",
+      "grantee": "",
+      "amount": null,
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN6990 gpn11 FN6990 gpn11 NOTICE OF FORECLOSURE OF RIGHT OF REDEMPTION STATE OF GEORGIA COUNTY OF FULTON To: 1. All persons known or unknown who may claim an interest in property known as 150 Skyland Dr;Resident/Tenant/Occupant; Eric Paul Bohnsack; Laura Fine Bohnsack; Unknown Heirs of Jimmie D. ... click 'view' to open the full text.",
+      "parcel_id": "",
+      "prop_address": "150 SKYLAND DR",
+      "prop_city": "",
+      "prop_state": "GA",
+      "prop_zip": "",
+      "pub_city": "Atlanta",
+      "mail_address": "",
+      "mail_city": "",
+      "mail_state": "",
+      "mail_zip": "",
+      "owner_occupied": null,
+      "clerk_url": "https://www.georgiapublicnotice.com/search.aspx",
+      "source": "Georgia Public Notice (legal organ advertisement)",
+      "foreclosure_sale_date": "",
+      "tax_sale_date": "",
+      "years_delinquent": "",
+      "heirs_unknown": true,
+      "notice_number": "FN6990",
+      "status": "active",
+      "match_confidence": 0.0,
+      "match_method": "none",
+      "last_verified": "2026-11-25",
+      "flags": [
+        "Pre-foreclosure",
+        "New this week",
+        "Unknown heirs / unsettled estate"
+      ],
+      "score": 70,
+      "county": "Fulton",
+      "first_seen": "2026-11-25"
     },
     {
       "doc_num": "GPN-FN4384",
@@ -573,7 +616,7 @@
     {
       "doc_num": "GPN-FN5828",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-11-18",
+      "filed": "2026-11-25",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "JOE WILLIAMS",
@@ -581,7 +624,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Atlanta County: Fulton FN5828 gpn11 FN5828 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER OF SALE NOTICE OF SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Pursuant to a power of sale contained in a certain security deed executed by JOE WILLIAMS, hereinafter referred to as Grantor, to Mort ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN5828 gpn11 FN5828 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER OF SALE NOTICE OF SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Pursuant to a power of sale contained in a certain security deed executed by JOE WILLIAMS, hereinafter referred to as Grantor, to Mort ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -603,7 +646,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -615,7 +658,7 @@
     {
       "doc_num": "GPN-FN5827",
       "doc_type": "Notice of Sale Under Power",
-      "filed": "2026-11-18",
+      "filed": "2026-11-25",
       "cat": "FC",
       "cat_label": "Pre-Foreclosure",
       "owner": "HARRY BROWN JR",
@@ -623,7 +666,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Atlanta County: Fulton FN5827 gpn11 FN5827 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Under and by virtue of the power of sale contained in a certain security deed executed by HARRY BROWN JR, hereinafter referred to as Grantor, to MORTGAGE ELECTRONIC ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN5827 gpn11 FN5827 gpn11 NOTICE OF FORECLOSURE SALE UNDER POWER CONTAINED IN SECURITY DEED STATE OF GEORGIA, COUNTY OF FULTON Under and by virtue of the power of sale contained in a certain security deed executed by HARRY BROWN JR, hereinafter referred to as Grantor, to MORTGAGE ELECTRONIC ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -645,7 +688,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Pre-foreclosure",
         "New this week"
@@ -665,7 +708,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Alpharetta County: Fulton FN6517 GPN11 FN6517 GPN11 NOTICE OF FORECLOSURE OF RIGHT TO REDEEM [REF. O.C.G.A., Section 48-4-5 et seq.; 48-4-45 & 48-4-46] TO: RAVI K. VELAYUDAM STONERIDGE HOMEOWNERS ASSOCIATION INC. CITY OF ALPHARETTA, Mayor Jim Gilvin Occupant 2340 WHITESTONE PL, Fulton County, Georgia. RE: FORECLOSURE ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Alpharetta County: Fulton FN6517 GPN11 FN6517 GPN11 NOTICE OF FORECLOSURE OF RIGHT TO REDEEM [REF. O.C.G.A., Section 48-4-5 et seq.; 48-4-45 & 48-4-46] TO: RAVI K. VELAYUDAM STONERIDGE HOMEOWNERS ASSOCIATION INC. CITY OF ALPHARETTA, Mayor Jim Gilvin Occupant 2340 WHITESTONE PL, Fulton County, Georgia. RE: FORECLOSURE ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "2340 WHITESTONE PL",
       "prop_city": "",
@@ -687,7 +730,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Tax delinquent",
         "New this week"
@@ -1803,7 +1846,7 @@
       "name_order": "natural",
       "grantee": "",
       "amount": null,
-      "legal": "South Fulton Neighbor Wednesday, November 18, 2026 City: Atlanta County: Fulton FN6508 GPN11 FN6508 GPN11 NOTICE OF FORECLOSURE OF RIGHT TO REDEEM [REF. O.C.G.A., Section 48-4-5 et seq.; 48-4-45 & 48-4-46] TO: Q SOLEON REVOCABLE LIVING TRUST C/O QUAN SULLIVAN TTEE MICHAEL HAROLD CASH and his Unknown Heirs at Law TONY HARRIS, Individually, and as Administrator of the Estate of ... click 'view' to open the full text.",
+      "legal": "South Fulton Neighbor Wednesday, November 25, 2026 City: Atlanta County: Fulton FN6508 GPN11 FN6508 GPN11 NOTICE OF FORECLOSURE OF RIGHT TO REDEEM [REF. O.C.G.A., Section 48-4-5 et seq.; 48-4-45 & 48-4-46] TO: Q SOLEON REVOCABLE LIVING TRUST C/O QUAN SULLIVAN TTEE MICHAEL HAROLD CASH and his Unknown Heirs at Law TONY HARRIS, Individually, and as Administrator of the Estate of ... click 'view' to open the full text.",
       "parcel_id": "",
       "prop_address": "",
       "prop_city": "",
@@ -1825,7 +1868,7 @@
       "status": "active",
       "match_confidence": 0.0,
       "match_method": "none",
-      "last_verified": "2026-11-24",
+      "last_verified": "2026-11-25",
       "flags": [
         "Tax delinquent",
         "New this week",
